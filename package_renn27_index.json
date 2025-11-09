@@ -14,7 +14,7 @@
           "architecture": "samd",
           "version": "1.0.0",
           "category": "Contributed",
-          "url": "https://github.com/two-7/RennDME/archive/refs/heads/main.zip",
+          "url": "https://github.com/two-7/RennDME/archive/refs/tags/v1.0.0.zip",
           "archiveFileName": "RennDME-1.0.0.zip",
           "checksum": "SHA-256:B812E5EC2A053C07EC6E2FE437C955BEC7472AC13A96B8410D9022920429BDFB",
           "size": "1657553",
