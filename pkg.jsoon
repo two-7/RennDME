@@ -1,0 +1,42 @@
+{
+  "packages": [
+    {
+      "name": "renn27",
+      "maintainer": "Renn27",
+      "websiteURL": "https://github.com/two-7/RennDME",
+      "help": {
+        "online": "https://github.com/two-7/RennDME/issues"
+      },
+      "platforms": [
+        {
+          "name": "Renn27 SAMD Boards",
+          "architecture": "samd",
+          "version": "1.0.0",
+          "category": "Contributed",
+
+          "url": "https://github.com/two-7/RennDME/archive/refs/tags/v1.0.0.zip",
+          "archiveFileName": "RennDME-1.0.0.zip",
+
+          "path": "RennDME-1.0.0",
+
+          "boards": [
+            { "name": "RennDME (SAMD21)" }
+          ],
+          "toolsDependencies": [
+            {
+              "packager": "arduino",
+              "name": "arm-none-eabi-gcc",
+              "version": "7-2017q4"
+            },
+            {
+              "packager": "arduino",
+              "name": "bossac",
+              "version": "1.7.0"
+            }
+          ]
+        }
+      ],
+      "tools": []
+    }
+  ]
+}
