@@ -14,12 +14,12 @@
           "architecture": "samd",
           "version": "1.0.0",
           "category": "Contributed",
-          "url": "https://github.com/two-7/RennDME/releases/download/v1.0.0/RennDME.zip",
-          "archiveFileName": "RennDME.zip",
-          "checksum": "SHA-256:EF661237034E625279159E0505549BA5EB144618A11B32728EE700D1F3A84FA0",
-          "size": "1628145",
+          "url": "https://github.com/two-7/RennDME/releases/download/v1.0.0/Renn27.zip",
+          "archiveFileName": "Renn27.zip",
+          "checksum": "SHA-256:75503B4217CC82DB12C4E4107CB16C6230CA68E3FC2A48DDC0FC90081C1272C4",
+          "size": "1628132",
           "boards": [
-            { "name": "RennDME (SAMD21)" }
+            { "name": "RennDME" }
           ],
           "toolsDependencies": [
             {
