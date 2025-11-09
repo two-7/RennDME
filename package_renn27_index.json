@@ -10,12 +10,12 @@
       },
       "platforms": [
         {
-          "name": "Renn27 DME",
+          "name": "Renn27 SAMD Boards",
           "architecture": "samd",
           "version": "1.0.0",
           "category": "Contributed",
           "url": "https://github.com/two-7/RennDME/archive/refs/tags/v1.0.0.zip",
-          "archiveFileName": "RennDME.zip",
+          "archiveFileName": "RennDME-1.0.0.zip",
           "checksum": "SHA-256:PUT_REAL_CHECKSUM_HERE",
           "size": "PUT_ZIP_SIZE_IN_BYTES_HERE",
           "boards": [
