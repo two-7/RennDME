@@ -16,8 +16,8 @@
           "category": "Contributed",
           "url": "https://github.com/two-7/RennDME/releases/download/v1.0.0/Renn27.zip",
           "archiveFileName": "Renn27.zip",
-          "checksum": "SHA-256:7B5A7CA2DDB66B79D09DFAF91EFC34CB1A06FB56B3E4AE0868AFF2E676F8969B",
-          "size": "1634319",
+          "checksum": "SHA-256:10FD3FE37E53E66A32173DA75B57EE834C5C38AA8D4EFF2EC1E5BE5765FD3192",
+          "size": "1642899",
           "boards": [
             { "name": "RennDME" }
           ],
